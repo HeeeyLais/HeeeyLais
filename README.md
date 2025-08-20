@@ -23,6 +23,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/HeeeyLais/HeeeyLais/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/af/c9/66/afc966b91eeec83eec99b83ef684fdb7.gif"  />
 
 ###                                                                                                                                                                                                                                                                                                                                                                                                 
