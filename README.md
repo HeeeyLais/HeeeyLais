@@ -23,14 +23,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeeeyLais/HeeeyLais/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeeeyLais/HeeeyLais/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HeeeyLais/HeeeyLais/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/af/c9/66/afc966b91eeec83eec99b83ef684fdb7.gif"  />
 
 ###                                                                                                                                                                                                                                                                                                                                                                                                 
