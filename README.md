@@ -18,9 +18,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
