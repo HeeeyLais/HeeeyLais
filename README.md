@@ -21,6 +21,5 @@
 <a href="https://github.com/HeeeyLais" title="Perfil da Laís">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeeeyLais&theme=dracula&show_icons=true" />
 </a>
----
-[![](https://visitcount.itsvg.in/api?id=HeeeyLais&icon=7&color=5)](https://visitcount.itsvg.in)
+
 
