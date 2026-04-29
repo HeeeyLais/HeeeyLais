@@ -20,7 +20,7 @@
 ## ୨ৎ Status:
 <a href="https://github.com/HeeeyLais" title="Perfil da Laís">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeeeyLais&theme=dracula&show_icons=true" />
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeeyLais&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![HeeeyLais](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeeyLais&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
