@@ -1,8 +1,8 @@
 ### Hey! Me chamo Laís, seja bem vindo!
 ## ╰┈➤ About me:
- ✦ Cursando Desenvolvimento de Sistemas enquanto manejo o Ensino Médio;
- ✦ Com planos de crar um jogo indie;
- ✦ Aprendendo mais sobre:
+ ✦ Cursando Desenvolvimento de Sistemas enquanto manejo o Ensino Médio;<br>
+ ✦ Com planos de crar um jogo indie;<br>
+ ✦ Aprendendo mais sobre:<br>
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
